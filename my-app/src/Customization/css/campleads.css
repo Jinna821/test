@@ -1,0 +1,15 @@
+.leads_page_back{
+  display: flex;
+}
+.ant_leads_land{
+  background-color: whitesmoke;
+  padding: 20px;
+}
+.leads_land_title{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.leads_title_left{
+  text-align: left;
+}

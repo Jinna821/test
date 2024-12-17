@@ -1,0 +1,30 @@
+.mback{
+  display: flex;
+}
+.title-box{
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+}
+.t-box{
+  text-align: left;
+}
+.antlanding{
+  background-color: whitesmoke;
+}
+.campcard{
+  padding-top: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.campcard-1{
+  width: 49%;
+}
+.campcard-2{
+  width: 49%;
+}

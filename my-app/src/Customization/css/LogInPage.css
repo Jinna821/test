@@ -1,0 +1,78 @@
+.background{
+  width:100%;
+  height: 100vh;
+  background-color: rgb(201, 225, 233);
+  /* background-image: url(../image/Screenshot_2.png); */
+}
+.container{
+  height: 100vh;
+}
+.form-cards{
+  width: 20vw;
+  background-color: rgb(250 249 252);
+  box-shadow: 0px 5px 12px -6px darkgray;
+  padding: 20px;
+  border-radius: 15px;
+}
+.titles{
+  text-align: center;
+  padding-bottom: 8px;
+}
+.titles>p{
+  font-size: 13px;
+}
+.remindbox{
+  position: relative;
+}
+.rightText{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+.rightText>p{
+  color: rgb(147 51 234);
+}
+.custombtn{
+  width: 100%;
+  background-color: rgb(147 51 234);
+  color: rgb(228, 225, 225);
+  border-radius: 5px;
+}
+.inputbox{
+  padding-top: 20px;
+}
+
+.newInput:focus{
+  border-color: blueviolet;
+  outline-color: blueviolet;
+}
+.newInput:hover{
+  border-color: blueviolet;
+  outline-color: blueviolet;
+
+}
+.password{
+  padding-top: 20px;
+}
+.checked{
+  padding-top: 20px;
+  font-size: 13px;
+}
+.buttons{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.a{
+  color: rgb(147 51 234);
+}
+.h3-title{
+}
+p{
+  color: gray;
+}
+label{
+  color: gray;
+}
+.bottomline{
+  font-size: 12px;
+}

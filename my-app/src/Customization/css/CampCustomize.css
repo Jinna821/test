@@ -1,0 +1,21 @@
+.camp-customize{
+  display: flex;
+}
+.ant-cutomize-landing{
+  background-color: whitesmoke;
+}
+.campcustom-title{
+  padding: 40px;
+  text-align: left;
+}
+.campcustom-navbar{
+  width: 100%;
+  padding-left: 40px;
+  padding-right: 40px;
+  display: flex;
+  justify-content: start;
+}
+.campcustom-inputbox{
+  padding-left: 20%;
+  padding-right: 20%;
+}
